@@ -1,5 +1,7 @@
 # StatisticoBot
-
+```js
+IM NOT GONNA TRANSLATE IT TO ENGLISH!
+```
 Il GitHub di StatisticoBot!
 
 ### installazione
